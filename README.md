@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 A robust Macro Keyboard software package
 
-<img src="https://img.shields.io/github/v/release/stream-pi/server?color=blue&include_prereleases&label=Server&logo=java&style=for-the-badge" />
-<img src="https://img.shields.io/github/v/release/stream-pi/client?color=blue&include_prereleases&label=client&logo=java&style=for-the-badge" />
-<img src="https://img.shields.io/github/package-json/v/stream-pi/website?color=blue&label=Website&logo=react&style=for-the-badge" />
+<a href="https://github.com/stream-pi/server">
+<img align="center" src="https://img.shields.io/github/v/release/stream-pi/server?color=blue&include_prereleases&label=Server&logo=java&style=for-the-badge" />
+</a>
+<a href="https://github.com/stream-pi/client">
+<img align="center" src="https://img.shields.io/github/v/release/stream-pi/client?color=blue&include_prereleases&label=client&logo=java&style=for-the-badge" />
+</a>
+<a href="https://github.com/stream-pi/website">
+<img align="center" src="https://img.shields.io/github/package-json/v/stream-pi/website?color=blue&label=Website&logo=react&style=for-the-badge" />
+</a>
