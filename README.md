@@ -4,6 +4,10 @@ Hello World! 👋
 
 Exciting things coming soon! 👀
 
+```ts
+const excitingThing = await someTime();
+```
+
 <!--
 **SamuelQuinones/SamuelQuinones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
